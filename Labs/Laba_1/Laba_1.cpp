@@ -27,7 +27,7 @@ int main()
 
     cd = chis_d / znam_d;//расчет результата деления
 
-    cout << "при типе double результат = " << cd << endl << endl;//вывод результата double
+    cout << "при типе double результат = " << cd << endl;//вывод результата double
 
     //задача номер 2
     double m = 3;//задаю любые m 
